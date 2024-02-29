@@ -17,9 +17,3 @@ Esta aplicación Java proporciona una funcionalidad para descargar y almacenar c
 
 - **Java:** Asegúrate de tener Java instalado en tu sistema.
 - **Entorno de Desarrollo:** Se recomienda utilizar un entorno de desarrollo integrado (IDE) compatible con Java, como IntelliJ IDEA o Eclipse.
-
-## Instrucciones de Uso
- **Clonar el Repositorio:**
-   ```bash
-   git clone https://tu-repositorio.git
-   cd tu-proyecto
